@@ -9,8 +9,11 @@ Adventure Works Questionaire
 
 Use the Attached Sales Excel sheet and perform the following actions:
 0. Union of Fact Internet sales and Fact internet sales new
+
 1.Lookup the productname from the Product sheet to Sales sheet.
+
 2.Lookup the Customerfullname from the Customer and Unit Price from Product sheet to Sales sheet.
+
 3.calcuate the following fields from the Orderdatekey field ( First Create a Date Field from Orderdatekey)
    A.Year
    B.Monthno
@@ -21,15 +24,25 @@ Use the Attached Sales Excel sheet and perform the following actions:
    G.Weekdayname
    H.FinancialMOnth
    I. Financial Quarter 
+
 4.Calculate the Sales amount uning the columns(unit price,order quantity,unit discount)
+
 5.Calculate the Productioncost uning the columns(unit cost ,order quantity)
+
 6.Calculate the profit.
+
 7.Create a Pivot table for month and sales (provide the Year as filter to select a particular Year)
+
 8.Create a Bar chart to show yearwise Sales
+
 9.Create a Line Chart to show Monthwise sales
+
 10.Create a Pie chart to show Quarterwise sales
+
 11.Create a combinational chart (bar and Line) to show Salesamount and Productioncost together
+
 12.Build addtional KPI /Charts for Performance by Products, Customers, Region
+
 13. Create a one of more Dashboards based on the requirement
 
 
