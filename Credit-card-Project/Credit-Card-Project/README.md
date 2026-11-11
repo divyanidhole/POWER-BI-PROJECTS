@@ -11,7 +11,7 @@ Create tables in SQL
 import csv file into SQL
 
 DAX Queries
-Rishabh Mishra 8
+
 week_num2 = WEEKNUM('public cc_detail'[week_start_date])
 Revenue = 'public cc_detail'[annual_fees] + 'public cc_detail'[total_trans_amt] + 'public cc_detail'[interest_earned]
 Current_week_Reveneue = CALCULATE(
